@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [scripts](https://github.com/rexgamer945/scripts)
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning **BATCH**
 
 
 <h3 align="left">Languages and Tools:</h3>
