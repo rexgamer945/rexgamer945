@@ -12,5 +12,5 @@
 <h2>About me</h2>
 <h2>Hello i'm a developer that enjoy to make software i do pintesting in my free and i really like doing bug bounties </h2>
 
-<h1> Stats </h1>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rexgamer945&show_icons=true&theme=radical)
