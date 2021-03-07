@@ -13,7 +13,7 @@
 <h3 align="left">📚About Me:</h3>
  <h4> Hello, I'm Rexgamer! I'm a Software Engineer that likes to code Software and Websites. I know HTML, Node, Java, Javascript and Python. I'm a amatuer Pentester and love security!</h4>
 
-<h1> Status </h1>
+<h3> Status </h3>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rexgamer945&show_icons=true&theme=radical)
 
