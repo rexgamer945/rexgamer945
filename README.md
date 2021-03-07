@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm rexgamer945</h1>
 <h3 align="center">I'm a developer</h3>
 <h3>
-- 🔭 I’m currently working on [scripts] (https://github.com/rexgamer945/scripts)
+- 🔭 I’m currently working on [scripts](https://github.com/rexgamer945/scripts)
 
 - 🌱 I’m currently learning **C #**
 </h3>
