@@ -11,5 +11,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexgamer945&langs_count=8)](https://github.com/rexgamer945/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rexgamer945&show_icons=true&theme=radical)
